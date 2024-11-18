@@ -2,16 +2,16 @@
 Discover your next favorite movie with Film Finder! This sleek and simple movie recommendation app lets you explore movies by genre, view detailed information, and keep track of your favorites.
 
 ### 🌟 Features
-Genre-Based Movie Discovery: Choose from a wide range of genres to get tailored movie recommendations.
-Detailed Movie Information: View movie posters, overviews, release dates, and cast details.
-Like and Dislike: Easily like movies to save them to your favorites or skip ones you’re not interested in.
-Persistent Favorites: Your liked movies are saved even if you close the app, so you can always come back to your personalized list.
+1. Genre-Based Movie Discovery: Choose from a wide range of genres to get tailored movie recommendations.
+2. Detailed Movie Information: View movie posters, overviews, release dates, and cast details.
+3. Like and Dislike: Easily like movies to save them to your favorites or skip ones you’re not interested in.
+4. Persistent Favorites: Your liked movies are saved even if you close the app, so you can always come back to your personalized list.
 
 ### 🚀 How to Use
-Select a Genre: Use the dropdown menu to pick your preferred movie genre.
-Click "Let's Play": Get a random movie recommendation within the chosen genre.
-Like or Dislike: Save movies to your favorites with a simple click or discover another movie by disliking.
-View Your Favorites: Your liked movies are displayed in a dedicated section for easy access.
+1. Select a Genre: Use the dropdown menu to pick your preferred movie genre.
+2. Click "Let's Play": Get a random movie recommendation within the chosen genre.
+3. Like or Dislike: Save movies to your favorites with a simple click or discover another movie by disliking.
+4. View Your Favorites: Your liked movies are displayed in a dedicated section for easy access.
 
 ### 🛠️ Technologies Used
 HTML, CSS, and JavaScript: Core technologies used to build the frontend.
