@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Proza+Libre:wght@700&display=swap");
+
+
+body {
+    background-color: #7f0920;
+    color: #0a0408;
+}
+
+h1 {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+#appTitle {
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 80px;
+}
+
+#genreForm, #playBtn {
+    text-align: center;
+    margin: 0px auto;
+    display: block;
+    font-family: 'Fredoka One', sans-serif;
+}
+
+#movieInfo {
+    width:  65%;
+    margin:  32px auto;
+}
+
+#castList {
+    width:  65%;
+    margin:  32px 30px;
+    display: flex;
+}
+
+#releaseDate{
+    width:  65%;
+    margin:  32px 30px;
+    display: flex;
+    color: #fdc238;
+}
+
+#castList {
+   width: auto;
+   display: inline-block;
+}
+
+
+#movieInfo:after {
+    content:  "";
+    display:  table;
+    clear:  both;
+}
+
+#moviePoster, #movieText {
+    width:  50%;
+    float:  left;
+}
+
+img#moviePoster {
+    width:  100%;
+    height:  auto;
+    display:  block;
+    margin:  auto;
+}
+
+#movieText {
+    font-family: 'Questrial';
+    color: #FEFBEA;
+    line-height: 1.25;
+}
+
+#likedMoviesList {
+    font-family: 'Questrial';
+    color: #FEFBEA;
+    line-height: 1.25;
+    margin-left: 50px;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 0 auto;
+}
+
+#title {
+    font-size: larger;
+    color:aliceblue;
+    margin-top: 20px;
+}
+
+#liked-header {
+    margin-left: 50px;
+    text-align: center;
+    color: #fdc238;
+}
+
+#movieTitle, #movieOverview {
+    padding:  32px;
+}
+
+#playBtn {
+    margin-top: 20px;
+    font-size: 25px;
+    padding: 7px 10px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: #B97828;
+    color: #fdc238;
+    cursor:  pointer;
+}
+
+label {
+    display: block;
+    font-size: 35px;
+    margin-bottom: 5px;
+}
+
+select {
+    width: 200px;
+    height: auto;
+}
+
+#likeOrDislikeBtns {
+    text-align: center;
+    margin: 0px auto;  
+}
+
+#likeBtn, #dislikeBtn {
+    padding: 15px 25px;
+    font-size: 20px;
+    border-radius: 8px;
+    border-style: none;
+    cursor:  pointer;
+}
+
+#likeBtn {
+    background-color: #249e57;
+    color: darkgreen;
+    margin-right: 5px;
+}
+
+#dislikeBtn {
+    background-color: #c74a4a;
+    color: #910000;
+    margin-left: 5px;
+}
+
+#btn-remove {
+    opacity: 0.1;
+    margin-left: 5px;
+    font-size: 12px;
+    border: 0;
+
+}
+
+#btn-remove:hover {
+    background-color: aliceblue;
+    opacity: 0.5;
+    cursor: pointer;
+}
