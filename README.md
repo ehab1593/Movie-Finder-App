@@ -17,8 +17,7 @@ View Your Favorites: Your liked movies are displayed in a dedicated section for 
 HTML, CSS, and JavaScript: Core technologies used to build the frontend.
 The Movie Database (TMDB) API: Fetches movie data such as genre, title, poster, overview, and cast details.
 Local Storage: Saves your liked movies so they persist across sessions.
-📸 Screenshots
-Coming Soon!
+
 
 
 
@@ -28,7 +27,7 @@ This app uses TMDB API to fetch movie data. Make sure to sign up and get your AP
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/film-finder.git
+git clone https://github.com/ehab1593/film-finder.git
 Navigate to the project directory:
 bash
 Copy code
@@ -37,7 +36,7 @@ Open index.html in your browser to start using the app.
 
 
 ### 💬 Contact
-For questions or feedback, reach out to [Your Name] at your.email@example.com.
+For questions or feedback, reach out to Ehab Feroze at ehab_1593@hotmail.com
 
 🌟 Enjoy Discovering New Movies with Film Finder!
 
