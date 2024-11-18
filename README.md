@@ -1,4 +1,4 @@
-#🎬 Film Finder
+# 🎬 Film Finder
 Discover your next favorite movie with Film Finder! This sleek and simple movie recommendation app lets you explore movies by genre, view detailed information, and keep track of your favorites.
 
 ### 🌟 Features
